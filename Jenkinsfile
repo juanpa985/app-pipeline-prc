@@ -5,5 +5,4 @@ pipeline {
         sh 'python3 Simple.py'
       }
     }
-  }
 }
